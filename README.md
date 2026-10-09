@@ -31,7 +31,7 @@ smart-expense-analyzer/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/smart-expense-analyzer.git
+git clone https://github.com/abrianaa/smart-expense-analyzer.git
 cd smart-expense-analyzer
 
 python -m venv .venv
