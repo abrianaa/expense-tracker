@@ -1,0 +1,3 @@
+pandas>=2.0
+matplotlib>=3.7
+# sqlite3 and tkinter ship with Python's standard library - nothing to install.

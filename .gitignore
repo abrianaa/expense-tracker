@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Local database files - each teammate generates their own with seed_data.py
+data/
+*.db
+*.sqlite3
